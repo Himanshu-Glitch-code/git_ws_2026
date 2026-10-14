@@ -2,7 +2,7 @@ name = input("Enter student name: ")
 
 marks = []
 
-for i in range(5):
+for i in range(6):
     mark = float(input(f"Enter marks for subject {i + 1}: "))
     marks.append(mark)
 
